@@ -14,7 +14,7 @@ gunicorn==23.0.0
 h5py==3.11.0
 idna==2.10
 importlib-metadata==3.7.2
-Keras==2.4.3 (If TensorFlow 2.4.1 includes Keras, you can skip this)
+Keras==2.4.3 
 Keras-Preprocessing==1.1.2
 Markdown==3.7
 numpy==1.26.4
